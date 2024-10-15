@@ -6,6 +6,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarnoodID&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FarnoodID&icon=10&color=8)](https://github.com/FarnoodID)
+<!-- [![](https://visitcount.itsvg.in/api?id=FarnoodID&icon=10&color=8)](https://github.com/FarnoodID)-->
+<!--[![](https://visitcount.itsvg.in/api?id=FarnoodID&label=Profile%20Views&pretty=true)](https://github.com/FarnoodID)-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <a href="https://github.com/FarnoodID">
+    <img src="https://visitcount.itsvg.in/api?id=FarnoodID&label=Profile%20Views&pretty=true" alt="Profile Views">
+  </a>
+</p>
+
+
