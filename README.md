@@ -26,10 +26,4 @@
 <!--[![](https://visitcount.itsvg.in/api?id=FarnoodID&label=Profile%20Views&pretty=true)](https://github.com/FarnoodID)-->
 
 
-<p align="center">
-  <a href="https://github.com/FarnoodID">
-    <img src="https://visitcount.itsvg.in/api?id=FarnoodID&label=Profile%20Views&pretty=true" alt="Profile Views">
-  </a>
-</p>
-
 
